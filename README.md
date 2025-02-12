@@ -7,7 +7,8 @@
 ```javascript
 const hun = {
   pronouns: "she" | "her",
-  code: [Python, C#, C++, HTML, CSS],
+  code: [Python, C#, C++, HTML, CSS, XQuery],
+  tools: [Keras, Pytorch]
   interests: ["cybersecurity", "game development"],
 }
 ```
