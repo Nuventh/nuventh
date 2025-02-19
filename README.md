@@ -32,9 +32,6 @@
        src="https://custom-icon-badges.herokuapp.com/github/followers/Nuventh?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
  </div>
 
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
-
 <!-- About me -->
  <h3 align="left">💫 About Me</h3>
  
