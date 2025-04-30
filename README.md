@@ -6,7 +6,7 @@
 <!-- Greeting -->
 <h1 align="center"> Hi, I'm Natália! </h1>
 
-<h4 align=""left>🌟 Currently pursuing my Master's degree in computer science and working on my programming skills, while exploring the IT field to gain knowledge.</h4>
+<h4 align=""left>🌟 Currently pursuing Master's in Computer Science and exploring the IT field to gain immense knowledge.</h4>
 
 <div align="center"> 
 <a href="https://github. com/Nuventh">
