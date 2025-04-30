@@ -4,7 +4,7 @@
 </a>
 
 <!-- Greeting -->
-<h1 align="center"> Hi, I'm Natália Papp! </h1>
+<h1 align="center"> Hi, I'm Natália! </h1>
 
 <h4 align=""left>🌟 Currently pursuing my Master's degree in computer science and working on my programming skills, while exploring the IT field to gain knowledge.</h4>
 
