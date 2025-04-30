@@ -18,12 +18,12 @@
 <!-- About me -->
  <h3 align="left">💫 About Me</h3>
  
-```javascript
-const hun = {
-  pronouns: "she" | "her",
-  code: [Python, C#, C++, HTML, CSS, XQuery],
-  tools: [Keras, Pytorch],
-  interests: ["cybersecurity", "game development"],
+```python
+hun = {
+    "pronouns": ["she", "her"],
+    "code": ["Python", "C#", "C++", "HTML", "CSS", "XQuery"],
+    "tools": ["Keras", "Pytorch"],
+    "interests": ["cybersecurity", "game development"]
 }
 ```
 ---
