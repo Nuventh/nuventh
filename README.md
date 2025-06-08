@@ -22,7 +22,7 @@ hun = {
     "pronouns": ["she", "her"],
     "code": ["Python", "C#", "C++", "HTML", "CSS", "XQuery"],
     "tools": ["Keras", "Pytorch"],
-    "interests": ["cybersecurity", "game development"]
+    "interests": ["cybersecurity", "artificial intelligence", "game development"]
 }
 ```
 ---
