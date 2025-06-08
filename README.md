@@ -8,7 +8,9 @@
 
 <h4 align=""left>🌟 Currently pursuing Master's in Computer Science and exploring the IT field to gain immense knowledge.</h4>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3115141" style='border:none;'></iframe>
+<div align=center>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/nuventh.png" alt="Image Badge" />
+</div>
 
 <!-- About me -->
  <h3 align="left">💫 About Me</h3>
