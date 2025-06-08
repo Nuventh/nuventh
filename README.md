@@ -6,7 +6,7 @@
 <!-- Greeting -->
 <h1 align="center"> Hi, I'm Natália! </h1>
 
-<h4 align=""left>🌟 Currently pursuing Master's in Computer Science and exploring the IT field to gain immense knowledge.</h4>
+<h3 align=""left>🌟 Currently pursuing Master's in Computer Science and exploring the IT field to gain immense knowledge.</h4>
 
 <div align=center>
   <a href="https://tryhackme.com/p/nuventh" target="_blank">
