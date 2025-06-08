@@ -8,10 +8,10 @@
 
 <h3 align=""left>🌟 Currently pursuing Master's in Computer Science and exploring the IT field to gain immense knowledge.</h4>
 
-<div align=center>
-  <a href="https://tryhackme.com/p/nuventh" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/nuventh.png" alt="TryHackMe" />
-</a>
+<div align="center">
+  <a href="https://tryhackme.com/p/nuventh" target="_blank" rel="noopener noreferrer">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nuventh.png" alt="TryHackMe" />
+  </a>
 </div>
 
 <!-- About me -->
