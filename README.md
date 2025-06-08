@@ -9,11 +9,8 @@
 <h4 align=""left>🌟 Currently pursuing Master's in Computer Science and exploring the IT field to gain immense knowledge.</h4>
 
 <div align="center"> 
-<a href="https://github. com/Nuventh">
-  <img width="162px" 
-       src="https://komarev.com/ghpvc/?username=Nuventh&label=Profile%20views&color=318CE7&style=for-the-badge" 
-       alt="Profile views" /></a>
- </div>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3115141" style='border:none;'></iframe>
+</div>
 
 <!-- About me -->
  <h3 align="left">💫 About Me</h3>
